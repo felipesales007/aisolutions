@@ -1,0 +1,22 @@
+{
+  "dados": {
+    "metadata": [
+      {
+        "id": 1,
+        "name": "comandos.txt",
+        "size": 141
+      },
+      {
+        "id": 2,
+        "name": "imagem.jpg",
+        "size": 86140
+      },
+      {
+        "id": 3,
+        "name": "retornos.docx",
+        "size": 16351
+      }
+    ]
+  },
+  "erro": null
+}
